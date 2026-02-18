@@ -42,12 +42,6 @@ The project demonstrates how real business processes are implemented inside an E
   
   Permissions
 
-User Interface (BC Pages)
-              ↓
-Business Logic (AL triggers & rules)
-              ↓
-ERP Database (Business Central tables)
-
 🗄 Data Model
 
 - Normalized relational structure
