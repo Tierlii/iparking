@@ -51,6 +51,7 @@ The project demonstrates how real business processes are implemented inside an E
 - Business constraints implemented in AL triggers
 
 📌 Authors 
+
 Arseni Terletski — Business Information Technology student 
 
 Eduard Andrianov — Business Information Technology student 
